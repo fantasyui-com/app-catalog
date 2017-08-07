@@ -2,10 +2,18 @@
   "meta":{
   },
   "data":[
+
     {
-    "name": "bootstrap-electron",
-    "category": ["development", "productivity"],
-    "description": "Bootstrap based Electron application starter pack template"
+      "name": "bootstrap-electron",
+      "category": ["development", "productivity"],
+      "description": "Bootstrap based Electron application starter pack template"
+    },
+
+    {
+      "name": "readme-editor",
+      "category": ["markdown", "development", "productivity"],
+      "description": "Super simple Markdown editor."
     }
+
   ]
 }
