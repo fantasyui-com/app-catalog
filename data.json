@@ -1,0 +1,11 @@
+{
+  "meta":{
+  },
+  "data":[
+    {
+    "name": "bootstrap-electron",
+    "category": ["development", "productivity"],
+    "description": "Bootstrap based Electron application starter pack template"
+    }
+  ]
+}
