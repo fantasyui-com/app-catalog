@@ -13,6 +13,12 @@
       "name": "readme-editor",
       "category": ["markdown", "development", "productivity"],
       "description": "Super simple Markdown editor."
+    },
+
+    {
+      "name": "color-schemes",
+      "category": ["color", "development", "art"],
+      "description": "Color Scheme Explorer"
     }
 
   ]
