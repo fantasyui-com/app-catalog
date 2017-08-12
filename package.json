@@ -1,6 +1,6 @@
 {
   "name": "app-catalog",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Application catalog for npm's app-store",
   "main": "index.js",
   "scripts": {
